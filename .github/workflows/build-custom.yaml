@@ -82,6 +82,3 @@ jobs:
           generate_release_notes: true
           body: |
             Custom build with package name: com.metaclash.djh
-
-      - name: Release Changelog Builder
-        uses: mikepenz/release-changelog-builder-action@v4
